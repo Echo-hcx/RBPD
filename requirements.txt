@@ -1,0 +1,11 @@
+torch>=2.5.1
+torchvision
+torchmetrics
+lpips
+pytorch-msssim
+tqdm
+numpy
+opencv-python
+matplotlib
+pandas
+scipy
