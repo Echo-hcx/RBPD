@@ -2,6 +2,8 @@
 # RBPD: A Robust Black-box Proactive Defense Framework against Face Swapping
 
 This is the official PyTorch implementation of the paper:  **"RBPD: A Robust Black-box Proactive Defense Framework against Face Swapping"**.
+DOI: https://doi.org/10.5281/zenodo.18503183
+This Digital Object Identifier (DOI) represents the permanent archival version of the RBPD framework (initial version), ensuring the long-term accessibility and traceability of our research artifacts.
 
 ## 📖 Overview
 RBPD (Robust Black-box Proactive Defense) is a two-stage generative framework designed to protect source images from malicious face swapping. By integrating semantic awareness and texture guidance, it embeds imperceptible but highly robust adversarial perturbations that disrupt identity feature extraction in unknown black-box scenarios.
@@ -68,6 +70,7 @@ The code supports calculating identity matching accuracy (Top-1/Top-5) and the p
 
 For any questions regarding the RBPD framework, please contact:
 **Chenxi Huang** - [2023211501@stu.ppsuc.edu.cn](mailto:2023211501@stu.ppsuc.edu.cn)
+
 
 
 
